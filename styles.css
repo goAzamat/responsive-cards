@@ -81,3 +81,20 @@ img {
     #f8501c
   );
 }
+.details {
+  padding:20px 10px;
+}
+
+.details h3{
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 10px 0 15px 0;
+}
+
+.details>p {
+color: #a0a0a0;
+font-size: 15px;
+line-height: 30px;
+font-weight: 400;
+}
